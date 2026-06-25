@@ -1,0 +1,22 @@
+{
+  "name": "출산·육아 급여 완벽 가이드",
+  "short_name": "육아급여",
+  "description": "출산전후휴가급여·육아휴직급여·배우자출산휴가급여 신청 안내 및 자동 계산기",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "screenshots": []
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <!-- stem -->
+  <rect x="244" y="295" width="24" height="115" rx="12" fill="#86efac"/>
+  <!-- ground -->
+  <rect x="130" y="390" width="252" height="20" rx="10" fill="#4ade80" opacity="0.6"/>
+  <!-- left leaf -->
+  <path d="M256 305 C240 275 195 215 185 150 C220 175 248 245 256 305Z" fill="#bbf7d0"/>
+  <!-- right leaf -->
+  <path d="M256 305 C272 275 317 215 327 150 C292 175 264 245 256 305Z" fill="#86efac"/>
+  <!-- top bud -->
+  <ellipse cx="256" cy="138" rx="32" ry="44" fill="#4ade80"/>
+  <!-- heart -->
+  <path d="M256 108 C256 108 242 96 232 104 C222 112 222 126 232 136 L256 158 L280 136 C290 126 290 112 280 104 C270 96 256 108 256 108Z" fill="white" opacity="0.9"/>
+</svg>
